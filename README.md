@@ -73,10 +73,22 @@ However, Mac version only supports 2 file types.
 
 ![MakerBot Print](img/makerbot.png)
 
-After import model to MakerBot Print, do following steps:
+After import model(s) to MakerBot Print, do following steps:
 
 1. Adjust printing setting (usually leave it as default), orientation, and location
 2. Run print preview. This step could take a couple minutes depending on model complexity.
-3. Export file to a thumb drive.
+3. Export the file to a thumb drive.
 
 ## Bambu Lab
+
+[Bambu Studio ](https://bambulab.com/en/download/studio) is the slicer program for Bambu Lab's printers.
+It is available for Windows and Mac with installers.
+For Linux user, you can download the software from Bambu lab's Github.
+Bambu studio supports the popular file format like STL but it is recommend to use STEP file extension.
+
+![Bambu Studio](img/bambulab.png)
+
+1. Click on the `Prepare` tab then drag the file(s) you want to print.
+2. Adjust the position. Bambu studio has an automatic adjustment function for this job.
+3. Slice the model(s).
+4. Export the file to an SD card.
