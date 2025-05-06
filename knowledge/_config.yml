@@ -3,6 +3,7 @@
 
 title: Digital Agriculture Club Knowledge
 author: Digital Agriculture Club
+copyright: "2025"
 logo: asset/dac.png
 
 # Force re-execution of notebooks on each build.
